@@ -8,7 +8,6 @@ def start_game():
 	mat =[]
 	for i in range(4):
 		mat.append([0] * 4)
-
 	# printing controls for user
 	print("Commands are as follows : ")
 	print("'W' or 'w' : Move Up")
